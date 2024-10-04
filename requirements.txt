@@ -1,0 +1,8 @@
+pip install pandas matplotlib seaborn streamlit
+
+# import pandas as pd
+# import matplotlib.pyplot as plt
+# import seaborn as sns
+# import streamlit as st
+
+# Menggunakan library pandas, matplotlib, seaborn, streamlit
